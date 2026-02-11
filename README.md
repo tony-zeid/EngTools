@@ -1,4 +1,4 @@
-# mTools
+# EngTools
 
 Series of simple engineering tools using Matlab (Octave compatible) and Python.
 
